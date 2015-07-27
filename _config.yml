@@ -28,7 +28,7 @@ description: My Personal Website / Blog / What-have-you
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  About Me: "getstarted"
+  About Me: "aboutme"
 
 # --- Footer options --- #
 
