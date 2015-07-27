@@ -59,7 +59,7 @@ url-pretty: "http://jakranz33.github.io/myGitHubPage2"  # eg. "deanattali.com/be
 # --- Misc --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "kranzforce"
 
 # Fill in your Google Analytics ID to track your website using GA
 # google_analytics: "UA-59820529-1"
