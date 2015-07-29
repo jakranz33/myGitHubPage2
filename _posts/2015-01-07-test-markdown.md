@@ -23,4 +23,4 @@ Here is an example of "Block Quotes"
 
 And I can include images:
 
-![A Dilbert Comic](/img/dilbert-02.gif "Dilbert Comic")
+![A Dilbert Comic]({{ site.url }}/img/dilbert-02.gif "Dilbert Comic")
