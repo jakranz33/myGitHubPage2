@@ -10,4 +10,17 @@ You can write regular [markdown](http://en.wikipedia.org/wiki/Markdown) here and
 
 ## Here is a secondary heading
 
-Got it?
+I can provide code samples using inline code blocks like this: `<apex:pageBlock>` for blog posts, or even separate code blocks like this:
+
+    var someVariable;
+    var someFunctionVariable = function(x) {
+      someVariable = x;
+    }
+
+Here is an example of "Block Quotes"
+
+> Some passage that someone else wrote that I want to Quotes
+
+And I can include images:
+
+![A Dilbert Comic](/img/dilbert-02.gif "Dilbert Comic")
