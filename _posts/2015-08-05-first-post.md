@@ -12,4 +12,6 @@ Well, let's start with some context: I've been in the Risk Management, Insurance
 
 Today, with a bit of experience under my belt, I feel it is time that I contribute back to that community.  Thus is born my blog, which I have crudely dubbed KranzForce.  I plan to post tips, tricks, anecdotes, and other nonsense as it pertains to building things on Salesforce.com and its array of button-click administration tools to leveraging Apex, VisualForce, Lightning, and JavaScript/HTML/CSS.  
 
+### What do I hope to achieve?
+
 If just one person stumbles across one of my posts as they scour the internet looking to solve a problem they are facing, and my post helps them along, then I'll have achieved my goal.  Thanks for reading!
