@@ -15,3 +15,9 @@ Today, with a bit of experience under my belt, I feel it is time that I contribu
 ### What do I hope to achieve?
 
 If just one person stumbles across one of my posts as they scour the internet looking to solve a problem they are facing, and my post helps them along, then I'll have achieved my goal.  Thanks for reading!
+
+### When do I want it?
+
+Now!
+
+Hah, quite frankly, between family, work, and a new home (with its always-growing to-do list), it might be a bit of a struggle to post content on a regular basis.
