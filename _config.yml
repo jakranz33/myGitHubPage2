@@ -70,7 +70,7 @@ disqus: "kranzforce"
 timezone: "America/Chicago"
 markdown: redcarpet
 highlighter: pygments
-permalink: /:year-:month-:day-:title
+permalink: /:year/:month/:day/:title
 paginate: 5
 
 # Default YAML values (more information on Jekyll's site)
