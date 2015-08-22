@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KranzForce</title>
+    <description>My Personal Website / Blog / What-have-you</description>
+    <link>http://jakranz33.github.io/kranzforce</link>
+    <atom:link href="http://jakranz33.github.io/kranzforce/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>First!</title>
+        <description>&lt;p&gt;This is my first post, how exciting! For such an occasion, it only makes sense to outline what I&amp;#39;d like to achieve by having this thing in the first place.&lt;/p&gt;
+
+&lt;h3&gt;Why am I even doing this?&lt;/h3&gt;
+
+&lt;p&gt;Well, let&amp;#39;s start with some context: I&amp;#39;ve been in the Risk Management, Insurance, and Safety software business for much of my career, and for the past 3 years, I&amp;#39;ve been working for a company that delivers their solutions in this space as a Salesforce partner, built on the Force.com platform.  From day one, I was hooked by how much could be easily built and customized.  Entire enterprise-class applications, built and deployed in mere hours!  As I began learning the ins and outs of the platform, I found that the online community of blogs was crucial to my education.  &lt;/p&gt;
+
+&lt;p&gt;Today, with a bit of experience under my belt, I feel it is time that I contribute back to that community.  Thus is born my blog, which I have crudely dubbed KranzForce.  I plan to post tips, tricks, anecdotes, and other nonsense as it pertains to building things on Salesforce.com and its array of button-click administration tools to leveraging Apex, VisualForce, Lightning, and JavaScript/HTML/CSS.  &lt;/p&gt;
+
+&lt;h3&gt;What do I hope to achieve?&lt;/h3&gt;
+
+&lt;p&gt;If just one person stumbles across one of my posts as they scour the internet looking to solve a problem they are facing, and my post helps them along, then I&amp;#39;ll have achieved my goal.  Thanks for reading!&lt;/p&gt;
+
+&lt;h3&gt;When do I want it?&lt;/h3&gt;
+
+&lt;p&gt;Now!&lt;/p&gt;
+
+&lt;p&gt;Hah, quite frankly, between family, work, and a new home (with its always-growing to-do list), it might be a bit of a struggle to post content on a regular basis.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 05 Aug 2015 00:00:00 -0500</pubDate>
+        <link>http://jakranz33.github.io/kranzforce/2015/08/05/first-post</link>
+        <guid isPermaLink="true">http://jakranz33.github.io/kranzforce/2015/08/05/first-post</guid>
+      </item>
+    
+  </channel>
+</rss>
