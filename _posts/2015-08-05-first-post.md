@@ -2,7 +2,7 @@
 layout: post
 title: First!
 subtitle: A mission statement
-tags: [first tag, test tag, another tag]
+tags: tag1 tag2 tag3
 ---
 
 This is my first post, how exciting! For such an occasion, it only makes sense to outline what I'd like to achieve by having this thing in the first place.
