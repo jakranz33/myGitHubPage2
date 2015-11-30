@@ -1,3 +1,4 @@
-# Beautiful Jekyll source code
-
-This is the source code of Beautiful Jekyll that is responsible for generating [the demo website for this theme](http://deanattali.com/beautiful-jekyll).  To learn how to build a similarly awesome looking website in minutes, go to the [main Beautiful Jekyll page](https://github.com/daattali/beautiful-jekyll#readme).
+#  Kranzforce  
+## My Salesforce-oriented Blog on Github Pages  
+  
+This is my Github Pages blog that is oriented towards discussion of various solutions and tools  on the Salesforce platform.  Generated using the [Beautiful Jekyll theme/template](http://deanattali.com/beautiful-jekyll)
