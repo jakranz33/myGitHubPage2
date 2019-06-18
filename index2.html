@@ -2,7 +2,7 @@
     <head>
             <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
     </head>
-
+<body>
     <style type='text/css'>
         .embeddedServiceHelpButton .helpButton .uiButton {
             background-color: #005290;
@@ -29,6 +29,7 @@
     
             embedded_svc.settings.enabledFeatures = ['Flows'];
             embedded_svc.settings.entryFeature = 'Flows';
+            embedded_svc.settings.targetElement
     
             embedded_svc.init(
                 'https://rk-lex.my.salesforce.com',
@@ -53,4 +54,5 @@
             initESW('https://service.force.com');
         }
     </script>
+    </body>
 </html>
